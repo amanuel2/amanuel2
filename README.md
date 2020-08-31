@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an android application named Servo
 - 🌱 I’m currently refining my skills in Java and SQL Server..
