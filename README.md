@@ -27,7 +27,7 @@
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-[![Amanuel's github stats](https://github-readme-stats.vercel.app/api?username=amanuel2)](https://github.com/amanuel2/github-readme-stats)
+[![Amanuel's github stats](https://github-readme-stats.vercel.app/api?username=amanuel2&theme=blueberry&show_icons=true)](https://github.com/amanuel2/github-readme-stats)
 
 
 All my projects are below
