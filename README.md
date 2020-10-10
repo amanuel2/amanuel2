@@ -4,6 +4,8 @@
 - 📫 You can reach me by contacting abogale2@gmail.com
 - ⚡ In my free time you can find me producing music, watching memes, and developing cool projects 🙂
 
+![](https://komarev.com/ghpvc/?username=amanuel2)
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/amanuel-bogale-b3b468110/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
