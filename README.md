@@ -11,6 +11,9 @@
 <a href="https://www.facebook.com/realamanuel2"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
+[![Amanuel's github stats](https://github-readme-stats.vercel.app/api?username=amanuel2&show_icons=true)](https://github.com/amanuel2/github-readme-stats)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
@@ -30,9 +33,6 @@
 </p>
         <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
-
-[![Amanuel's github stats](https://github-readme-stats.vercel.app/api?username=amanuel2&show_icons=true)](https://github.com/amanuel2/github-readme-stats)
-
 
 All my projects are below
     👇
