@@ -10,9 +10,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abogale2@gmail.com&su=SUBJECT&body=BODY"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/realamanuel2"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.twitter.com/therealamanuel2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-<p>
-<a href="https://play.google.com/store/apps/developer?id=Amanuel+Bogale"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge"/></a>    
+<a href="https://play.google.com/store/apps/developer?id=Amanuel+Bogale"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 [![Amanuel's github stats](https://github-readme-stats.vercel.app/api?username=amanuel2&show_icons=true)](https://github.com/amanuel2/github-readme-stats)
