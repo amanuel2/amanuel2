@@ -37,6 +37,7 @@
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="firebase" width="40" height="40"/> </a> 
      <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
         <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+        <a href="https://ocaml.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg" alt="atom" width="40" height="40"/> </a>
         <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual code" width="40" height="40"/> </a>
         <a href="https://atom.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a>
 
