@@ -2,7 +2,7 @@
 
 - 🏢 I'm actively looking for internships!
 - 📫 You can reach me by contacting abogale2@gmail.com
-- ⚡ In my free time you can find me producing music, watching memes, and developing cool projects 🙂
+- ⚡ In my free time you can find me producing 🎶, traveling the 🌎, and developing cool projects 🙂
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
