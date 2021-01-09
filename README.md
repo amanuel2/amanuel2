@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🏢 I'm actively looking for internships!
 - 📫 You can reach me by contacting abogale2@gmail.com
@@ -12,6 +12,8 @@
 <a href="https://www.twitter.com/therealamanuel2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://play.google.com/store/apps/developer?id=Amanuel+Bogale"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge"/></a>
 </p>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320"/>
 
 [![Amanuel's github stats](https://github-readme-stats.vercel.app/api?username=amanuel2&show_icons=true)](https://github.com/amanuel2/github-readme-stats)
 
