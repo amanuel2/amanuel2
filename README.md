@@ -13,7 +13,7 @@
 <a href="https://play.google.com/store/apps/developer?id=Amanuel+Bogale"><img src="https://img.shields.io/badge/Google%20Play-414141?logo=google-play&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="355" height="320"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320"/>
 
 [![Amanuel's github stats](https://github-readme-stats.vercel.app/api?username=amanuel2&show_icons=true)](https://github.com/amanuel2/github-readme-stats)
 
