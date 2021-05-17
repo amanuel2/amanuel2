@@ -1,8 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🏢 I'm actively looking for internships!
+- 🏢 I'm actively looking for Fall internships!
 - 📫 You can reach me by contacting abogale2@gmail.com
 - ⚡ In my free time you can find me producing 🎶, traveling the 🌎, and developing cool projects 🙂
+
+Currently an Oracle Summer Intern!
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -44,7 +46,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="azure" width="40" height="40"/> </a> 
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/> </a> 
      <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> 
         <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
