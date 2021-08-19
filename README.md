@@ -4,7 +4,6 @@
 - 📫 You can reach me by contacting abogale2@gmail.com
 - ⚡ In my free time you can find me producing 🎶, traveling the 🌎, and developing cool projects 🙂
 
-Incoming Coursera Intern!
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
