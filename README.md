@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🏢 I'm actively looking for Fall internships!
+- 🏢 I'm actively looking for Winter & Summer internships!
 - 📫 You can reach me by contacting abogale2@gmail.com
 - ⚡ In my free time you can find me producing 🎶, traveling the 🌎, and developing cool projects 🙂
 
