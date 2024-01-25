@@ -29,7 +29,7 @@
      <a href="https://golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/> </a>
      <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
      <a href="https://www.freebsd.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/freebsd/freebsd-icon.svg" alt="bsd" width="40" height="40"/> </a>   
-     <a href="https://www.llvm.org/" target="_blank"> <img src="https://www.svgrepo.com/show/306350/llvm.svg" alt="bsd" width="40" height="40"/> </a>   
+     <a href="https://www.llvm.org/" target="_blank"> <img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="bsd" width="40" height="40"/> </a>   
      <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="bsd" width="40" height="40"/> </a>   
 </p>
 
